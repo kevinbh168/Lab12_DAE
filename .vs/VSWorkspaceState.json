@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\MVCAJAX",
+    "\\MVCAJAX\\Controllers",
+    "\\MVCAJAX\\Data",
+    "\\MVCAJAX\\Views",
+    "\\MVCAJAX\\Views\\Student",
+    "\\Service"
+  ],
+  "SelectedNode": "\\MVCAJAX\\Views\\Student\\IndexRazor.cshtml",
+  "PreviewInSolutionExplorer": false
+}
